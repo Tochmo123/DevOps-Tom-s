@@ -1,7 +1,7 @@
 <?php
 use PHPUnit\Framework\TestCase;
 
-include './src/calculadora.php';
+include 'calculadora.php';
 final class CalculadoraTest extends TestCase
 {
     public function testSuma()
